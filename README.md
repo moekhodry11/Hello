@@ -1,2 +1,3 @@
-# Hello
-My personal repository.
+
+                      Hi 👋, I'm Mohamed Khodary
+                      CSE Student, Egypt
